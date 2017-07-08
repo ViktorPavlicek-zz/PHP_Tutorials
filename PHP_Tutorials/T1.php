@@ -29,6 +29,8 @@ echo "<br>";
    
     echo $niz2[1]; # nako rabijanja na 2 elementa prikazacemo samo 2 element u nizu
     
+?>    
+    
 
 
     
