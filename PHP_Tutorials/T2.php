@@ -15,6 +15,5 @@
         echo "Vrednost je " . $i . "<br>";
         echo "Vrednost je $i <br>"; # moze i ovako da se napise (Ali samo sa dvostukim apostrofima "" )
         echo 'Vrednost je $i <br>'; # ispisuje kako je napisano sa jednostrukim apostrofima ''! 
-        echo "Vlada je picka!";
     }
     
