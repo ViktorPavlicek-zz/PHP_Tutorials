@@ -22,7 +22,7 @@ echo "<br>";
 echo "<br>";    
 
     $niz2 = explode(" ", $string); # razdvojili string u 2 elementa 1-Univerzitet 2-Singidunum
-    echo count(@niz2);
+    echo count(niz2);
 
 echo "<br>";  
    
