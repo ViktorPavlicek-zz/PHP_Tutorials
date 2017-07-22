@@ -54,7 +54,7 @@ echo "<br>";
     $unizVreme = strtotime($vreme);
     
     echo $unizVreme . " je " . $vreme . "<br>"; # 1454753691 - br. sekundi koji je prosao od 1. januara 1970 u ponoc do ovog datuma koji smo ispisali  
- ?>  
+ 
 
     
     

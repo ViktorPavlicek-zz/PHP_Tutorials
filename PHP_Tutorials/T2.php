@@ -17,3 +17,4 @@
         echo 'Vrednost je $i <br>'; # ispisuje kako je napisano sa jednostrukim apostrofima ''! 
     }
     
+    echo dns_get_record('google.com');
